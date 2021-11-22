@@ -1,2 +1,2 @@
 # bharhat-java-web
-Trial repository for on bharaht aws tutorial
+Trial repository on bharaht aws tutorial
